@@ -14,7 +14,10 @@
         android:theme="@style/Theme.Android_Study_In_Lecture"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".Chap7Project7_3"
+            android:exported="false" />
+        <activity
+            android:name=".Chap7PracticeDialog"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,6 +25,27 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Chap7PracticeToast"
+            android:exported="false" />
+        <activity
+            android:name=".Chap7Project7_2"
+            android:exported="true"></activity>
+        <activity
+            android:name=".Chap7Project7_1"
+            android:exported="true" />
+        <activity
+            android:name=".Chap6Exam1718Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Chap6Exam1516Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Chap6Exam1011Activity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
     </application>
 
 </manifest>

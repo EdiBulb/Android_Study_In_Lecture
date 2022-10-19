@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/activity_chap6_exam1516.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/activity_chap6_exam1718.xml" value="0.2" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/activity_chap7_practice_dialog.xml" value="0.12395833333333334" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/activity_chap7_practice_toast.xml" value="0.12395833333333334" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/activity_chap7_project71.xml" value="0.2379182156133829" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/activity_chap7_project72.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/activity_main.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/exam6_1.xml" value="0.2" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/exam6_10.xml" value="0.2" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/exam6_12.xml" value="0.2" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/exam6_13.xml" value="0.176" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/exam6_14.xml" value="0.2484375" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/exam6_2.xml" value="0.264" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/layout/exam6_3.xml" value="0.2" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/menu/menu1.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/menu/menu2_1.xml" value="0.264" />
+        <entry key="..\:/Users/GRAM/AndroidStudioProjects/Android_Study_In_Lecture/app/src/main/res/menu/menu2_2.xml" value="0.24791666666666667" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
