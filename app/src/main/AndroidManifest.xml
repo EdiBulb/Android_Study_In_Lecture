@@ -14,8 +14,8 @@
         android:theme="@style/Theme.Android_Study_In_Lecture"
         tools:targetApi="31">
         <activity
-            android:name=".Chap7Project7_3"
-            android:exported="true" >
+            android:name=".Chap5Project5_1"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -23,16 +23,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Chap7PracticeDialog"
+            android:name=".Chap7Project7_3"
             android:exported="true">
 
         </activity>
+        <activity
+            android:name=".Chap7PracticeDialog"
+            android:exported="true"></activity>
         <activity
             android:name=".Chap7PracticeToast"
             android:exported="false" />
         <activity
             android:name=".Chap7Project7_2"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".Chap7Project7_1"
             android:exported="true" />
